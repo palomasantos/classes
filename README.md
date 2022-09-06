@@ -1,1 +1,1 @@
-# classes
+# Resolução do exercício sobre classes
