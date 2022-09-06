@@ -10,3 +10,5 @@ class Quadrado:
     def perimetro(self):
         return lado*4
 
+
+
